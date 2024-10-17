@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Terning-spill")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ebcf78f83a0cecbcb0a2c47087be887b9ee10d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d000c185494b80f3e8518c3624649261c390211a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Terning-spill")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Terning-spill")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

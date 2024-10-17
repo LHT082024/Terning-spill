@@ -1,0 +1,14 @@
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\bin\Debug\net8.0\Terning-spill.exe
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\bin\Debug\net8.0\Terning-spill.deps.json
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\bin\Debug\net8.0\Terning-spill.runtimeconfig.json
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\bin\Debug\net8.0\Terning-spill.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\bin\Debug\net8.0\Terning-spill.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.AssemblyInfo.cs
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\refint\Terning-spill.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.genruntimeconfig.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\ref\Terning-spill.dll

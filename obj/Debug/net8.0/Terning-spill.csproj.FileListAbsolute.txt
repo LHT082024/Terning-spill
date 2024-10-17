@@ -12,3 +12,4 @@ C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.pdb
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.genruntimeconfig.cache
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\ref\Terning-spill.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Terning-spill\obj\Debug\net8.0\Terning-spill.sourcelink.json
